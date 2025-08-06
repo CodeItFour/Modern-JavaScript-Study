@@ -2,6 +2,10 @@
 
 
 ##1. Hello World
-    1.1 웹 페이지에 스크립트를 삽입하는 방법
-        1.1.1 <script> 태그
-        
+1.1 script 태그
+    HTML 문서 어디든 삽입 가능
+1.2 모던 마크업
+    <script> 태그엔 몇 가지 속성(attribute) 이 있지만 현대에서는 사용하지 않음.        
+        type 속성: <script type=…> → 과거 필수, 지금은 모듈에서만 사용
+        language 속성: <script language=…> → 의미 없음, 쓰지 않음
+        주석 처리 → 옛날 브라우저용, 지금 필요 없음
