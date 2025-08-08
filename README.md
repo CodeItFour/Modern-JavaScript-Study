@@ -52,5 +52,5 @@ PR 제목 형식: 해당 주차 및 스터디순번  - 본인 이름
 | 6주차-2 | iterable과 Map/Set (iterable 객체, 맵과 셋, Object.keys, values, entries) |
 ---
 
-
+이나래
  
