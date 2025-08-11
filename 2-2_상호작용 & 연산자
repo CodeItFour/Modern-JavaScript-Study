@@ -17,6 +17,24 @@
 
 ---
 
+#형 변환
+
+자바스크립트의 데이터가 원래 가지고 있는 자료형에서 다른 자료형으로 바뀌는 것을 말함
+
+1. **문자형(String)**
+- String(true) // 'true' | String(null) // 'null'
+
+2. **숫자형(Number)**
+- Number('123') // 123 | Number(false) // 0 | Number(null) // 0 | Number(undifined) // NaN
+
+3. **불린형(Boolean)**
+- Boolean(0) // false | Boolean('') // false | Boolean('0') // true | Boolean('  ') // true
+
+
+
+
+
+
 ##팀원들과 공유하면 좋을 포인트
 1. type="text/javascript" 같은 속성은 지금은 생략할수 있고 코드 더 간결하게 작성할 수 있음.
 외부 JS 파일을 쓸 땐 <script src="파일명.js"> 만 쓰면 되고, 태그 안에 코드를 같이 쓰면 무시되니 주의필요!
