@@ -12,19 +12,27 @@
 
 각자의 제출 내용을 리뷰하며 궁금한 점, 보완할 점을 서로 피드백합니다.
 
-## 📝 제출 방법
+## <span style="color: red">📝 제출 방법 </span>
 
-1. 본 스터디 레포지토리를 본인의 GitHub 계정으로 Fork합니다.
+참고 :https://www.notion.so/github-24477fcef9d38084a651fade2f04f90b
+
+1. 스터디 레포지토리를 본인의 GitHub 계정으로 For.
 
 2. Fork한 레포지토리에서 본인의 GitHub 아이디로 브랜치를 생성합니다.
+   ![img_1.png](img/img_1.png)
+
+</br>
 
 3. 각 주차별 학습 디렉토리 하위에  `본인이름.md` 로 작성합니다.
+![img_2.png](img/img_2.png)
+
+</br>
 
 4. 작성 완료 후, 원본 레포지토리의 main branch로 Pull Request를 생성합니다.
 
 5. `PR 제목 형식`: `해당 주차 , 이름- 본인 이름`
 
-예시: 3-1 this - 홍길동
+`예시: 3-1 JS 기초문법 - 홍길동`
 
 ## 🚨 제출 마감 및 기준
 
@@ -52,6 +60,3 @@
 | 6주차-2 | iterable과 Map/Set (iterable 객체, 맵과 셋, Object.keys, values, entries) |
 ---
 
-
-
-조지운
