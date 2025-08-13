@@ -19,7 +19,7 @@
 1. 스터디 레포지토리를 본인의 GitHub 계정으로 For.
 
 2. Fork한 레포지토리에서 본인의 GitHub 아이디로 브랜치를 생성합니다.
-   ![img_1.png](img/img_1.png)
+![img.png](img.png)
 
 </br>
 
